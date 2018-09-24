@@ -1,4 +1,6 @@
-# python_practic
+# python_practice
+
+
 
 Top 100 fortnite player .csv output script:
 fortnite_scraper.py takes the top 100 player's
