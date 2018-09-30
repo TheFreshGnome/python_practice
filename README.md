@@ -7,4 +7,4 @@ and outputs it into a .csv file
 
 em_scraper.py: scrape websites and phone numbers 
 based off Regex expressions from virtually any site.
-credit to yt/EngineerMan
+This one is credited to yt/EngineerMan
